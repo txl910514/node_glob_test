@@ -1,0 +1,30 @@
+{
+  "name": "node_glob_test",
+  "version": "1.0.0",
+  "description": "node_glob_test测试 http://www.cnblogs.com/xinxingyu/p/5736244.html http://www.cnblogs.com/liulangmao/p/4552339.html https://www.mgenware.com/blog/?p=2716",
+  "main": "glob_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txl910514/node_glob_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txl910514/node_glob_test/issues"
+  },
+  "homepage": "https://github.com/txl910514/node_glob_test#readme",
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "glob": "^7.0.5",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^2.0.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {}
+}
